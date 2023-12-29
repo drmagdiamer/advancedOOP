@@ -6,8 +6,6 @@ public class MyMain {
         MemberRelationship m2 = MemberRelationship.DAUGHTER;
         MemberRelationship m3 = MemberRelationship.DAUGHTER;
 
-        m3.setId(7);
-
         System.out.println(m2);
     }
 }
